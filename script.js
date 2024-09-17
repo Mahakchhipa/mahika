@@ -10,7 +10,7 @@ document.getElementById("toggle-container").onclick = function () {
         hTag.classList.add("color-white");
         bodyTag.classList.add("bck-color-black");
         circle.classList.add("dark-mode");
-
+  
         toggled = true;
     }
     else{
